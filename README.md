@@ -1,1 +1,1 @@
-# Pygame
+# Learning Python <3
